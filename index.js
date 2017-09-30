@@ -14,4 +14,3 @@ function logWhisper(string){
 
 var lowercase = "hello!"
 var uppercase = "HELLO!"
-
